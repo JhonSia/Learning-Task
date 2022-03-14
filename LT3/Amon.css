@@ -1,0 +1,187 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:100%;
+    height: 950px;
+    background-color:darkblue;
+    background-size:cover;
+    opacity: 95%;
+    margin:0;
+    padding:0;
+}
+#mainbox #firstrow {
+    height:400px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #firstrow .Sinigang {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .Sinigang img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .Sinigang p {
+    font-size:12px;
+}
+#mainbox #firstrow .adobo {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .adobo img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .adobo p {
+    font-size:12px;
+}
+#mainbox #firstrow .Caldereta {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .Caldereta img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .Caldereta p {
+    font-size:12px;
+}
+#mainbox #firstrow .ChickenCurry {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .ChickenCurry img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .ChickenCurry p {
+    font-size:12px;
+}
+#mainbox #firstrow .crispypata {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .crispypata img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .crispypata p {
+    font-size:12px;
+}
+#mainbox #secondrow .Lumpiangshanghai {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .Lumpiangshanghai img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .Lumpiangshanghai p {
+    font-size:12px;
+}
+#mainbox #secondrow .Sisig {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .Sisig img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .Sisig p {
+    font-size:12px;
+}
+#mainbox #secondrow .pancitmolo {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .pancitmolo img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .pancitmolo p {
+    font-size:12px;
+}
+#mainbox #secondrow .FriedChicken {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .FriedChicken img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .FriedChicken p {
+    font-size:12px;
+}
+#mainbox #secondrow .tinola {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .tinola img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .tinola p {
+    font-size:12px;
+}
